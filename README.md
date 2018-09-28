@@ -64,7 +64,7 @@ Plus:
 
 #### Exercicio
 
-Criar uma aplicação Front/Back via REST para o seguinte cenário:
+Criar uma aplicação Front/Back via REST para o seguinte cenário ilustrativo:
 
 > "A empresa pineapple requisitou um sistema para gerenciamento de produtos, onde tanto cadastro quanto visualização e edição sejam de rápido acesso e os elementos adicionados, modificados e deletados se atualizem sem haja a necessidade de atuailizar a página."
 
