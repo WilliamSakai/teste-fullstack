@@ -2,22 +2,27 @@
 ---
 O documento está divido da seguinte forma:
 
-└───Instruções
-└───Prazo
-└───Requisitos
-└───Dúvidas
+```
+├── Instruções
+├── Prazo
+├── Requisitos
+└── Dúvidas
+```
 
-##### Instruções e recomendações
+<br>
+
+#### Instruções e recomendações
+
 1. Leia o documento todo em ordem sequencial
 2. Ao finalizar, suba o teste em um repositório no github e envie o link para: desenvolvimento@wtt.com.br
 
 Realize o teste com calma e mesmo que não consiga terminar, não exite em nos enviar, ficaremos felizes em avaliar!
 Boas práticas são muito apreciadas e somarão muitos pontos.
 
-##### Prazo
+#### Prazo
 Faça sua estimativa em horas ou dias para o desenvolvimento, e envie para desenvolvimento@wtt.com.br com o título `WTT - Teste Fullstack`, após isso você deverá aguardar a mensagem de confirmação.
 
-#####  Especificação técnica
+#### Especificação técnica
 
 ```
 Front-End
@@ -57,7 +62,7 @@ Plus:
 - Docker
 ```
 
-##### Exercicio
+#### Exercicio
 
 Criar uma aplicação Front/Back via REST para o seguinte cenário:
 
@@ -70,7 +75,7 @@ Dentre os requisitos estão:
 `Recomendações com intruções podem ser encontradas no diretório:
 example-images`
 
-##### Dúvidas
+#### Dúvidas
 Caso exista qualquer dúvida não exite em nos contatar: desenvolvimento@wtt.com.br
 
 ### BOA SORTE!!
