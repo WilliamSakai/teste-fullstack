@@ -1,0 +1,14 @@
+1-unauthorized.png:
+  Refere-se a página que deverá ser visualizada quando o usuário não estiver autenticado.
+  Em resumo é apenas uma página de leitura que não possibilita o usuário ter acesso as funcionalidades.
+2-login.png:
+  página de cadastro/login
+3-create-page.png:
+  Com o usuário logado, trata-se da página criação de um novo item.
+4-details-page.png:
+  Com o usuário logado, trata-se da página de visualização individual de cada item da tabela.
+5-update-page.png:
+  Com o usuário logado, trata-se da página de edição de cada item da tabela.
+
+Notas:
+- O layout é apenas um esboço de como a aplicação deve ser, sinta-se livre para estilizar como desejar.
