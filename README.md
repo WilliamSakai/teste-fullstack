@@ -34,7 +34,7 @@ Requisitos:
 
 Plus:
 - Utilização de itens como: gulp/grunt/webpack, SASS/LESS, editorconfig, etc..
-- Frameworks, preferencialmnete Angular 2+, mas independente disso, todos são considerados um plus.
+- Frameworks, preferencialmente Angular 2+, mas independente disso, todos são considerados um plus.
 - Typescript
 - Testes (unitários/e2e)
 ```
